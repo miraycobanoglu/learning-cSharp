@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/bin/Debug/net9.0/pastaodevi
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/bin/Debug/net9.0/pastaodevi.deps.json
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/bin/Debug/net9.0/pastaodevi.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/bin/Debug/net9.0/pastaodevi.dll
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/bin/Debug/net9.0/pastaodevi.pdb
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/pastaodevi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/pastaodevi.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/pastaodevi.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/pastaodevi.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/pastaodevi.dll
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/refint/pastaodevi.dll
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/pastaodevi.pdb
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/pastaodevi.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/pastaodevi/obj/Debug/net9.0/ref/pastaodevi.dll

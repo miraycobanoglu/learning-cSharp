@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/bin/Debug/net9.0/generickoleksiyonlar
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/bin/Debug/net9.0/generickoleksiyonlar.deps.json
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/bin/Debug/net9.0/generickoleksiyonlar.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/bin/Debug/net9.0/generickoleksiyonlar.dll
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/bin/Debug/net9.0/generickoleksiyonlar.pdb
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/generickoleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/generickoleksiyonlar.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/generickoleksiyonlar.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/generickoleksiyonlar.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/generickoleksiyonlar.dll
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/refint/generickoleksiyonlar.dll
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/generickoleksiyonlar.pdb
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/generickoleksiyonlar.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/generickoleksiyonlar/obj/Debug/net9.0/ref/generickoleksiyonlar.dll

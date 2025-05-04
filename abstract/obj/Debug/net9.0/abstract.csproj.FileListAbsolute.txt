@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/abstract/bin/Debug/net9.0/abstract
+/Users/miraycobanoglu/Desktop/c#/abstract/bin/Debug/net9.0/abstract.deps.json
+/Users/miraycobanoglu/Desktop/c#/abstract/bin/Debug/net9.0/abstract.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/abstract/bin/Debug/net9.0/abstract.dll
+/Users/miraycobanoglu/Desktop/c#/abstract/bin/Debug/net9.0/abstract.pdb
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/abstract.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/abstract.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/abstract.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/abstract.dll
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/refint/abstract.dll
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/abstract.pdb
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/abstract.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/abstract/obj/Debug/net9.0/ref/abstract.dll

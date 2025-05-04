@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/lokantaodeviii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/lokantaodeviii.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/lokantaodeviii.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/lokantaodeviii.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/bin/Debug/net9.0/lokantaodeviii
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/bin/Debug/net9.0/lokantaodeviii.deps.json
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/bin/Debug/net9.0/lokantaodeviii.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/bin/Debug/net9.0/lokantaodeviii.dll
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/bin/Debug/net9.0/lokantaodeviii.pdb
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/lokantaodeviii.dll
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/refint/lokantaodeviii.dll
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/lokantaodeviii.pdb
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/lokantaodeviii.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/lokantaodeviii/obj/Debug/net9.0/ref/lokantaodeviii.dll

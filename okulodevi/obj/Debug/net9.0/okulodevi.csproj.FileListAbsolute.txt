@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/okulodevi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/okulodevi.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/okulodevi.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/okulodevi.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/okulodevi/bin/Debug/net9.0/okulodevi
+/Users/miraycobanoglu/Desktop/c#/okulodevi/bin/Debug/net9.0/okulodevi.deps.json
+/Users/miraycobanoglu/Desktop/c#/okulodevi/bin/Debug/net9.0/okulodevi.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/okulodevi/bin/Debug/net9.0/okulodevi.dll
+/Users/miraycobanoglu/Desktop/c#/okulodevi/bin/Debug/net9.0/okulodevi.pdb
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/okulodevi.dll
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/refint/okulodevi.dll
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/okulodevi.pdb
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/okulodevi.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/okulodevi/obj/Debug/net9.0/ref/okulodevi.dll

@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/enumlar/bin/Debug/net9.0/enumlar
+/Users/miraycobanoglu/Desktop/c#/enumlar/bin/Debug/net9.0/enumlar.deps.json
+/Users/miraycobanoglu/Desktop/c#/enumlar/bin/Debug/net9.0/enumlar.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/enumlar/bin/Debug/net9.0/enumlar.dll
+/Users/miraycobanoglu/Desktop/c#/enumlar/bin/Debug/net9.0/enumlar.pdb
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/enumlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/enumlar.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/enumlar.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/enumlar.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/enumlar.dll
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/refint/enumlar.dll
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/enumlar.pdb
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/enumlar.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/enumlar/obj/Debug/net9.0/ref/enumlar.dll

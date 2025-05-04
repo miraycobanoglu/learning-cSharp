@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/bin/Debug/net9.0/teknolojiodevi
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/bin/Debug/net9.0/teknolojiodevi.deps.json
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/bin/Debug/net9.0/teknolojiodevi.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/bin/Debug/net9.0/teknolojiodevi.dll
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/bin/Debug/net9.0/teknolojiodevi.pdb
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/teknolojiodevi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/teknolojiodevi.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/teknolojiodevi.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/teknolojiodevi.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/teknolojiodevi.dll
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/refint/teknolojiodevi.dll
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/teknolojiodevi.pdb
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/teknolojiodevi.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/teknolojiodevi/obj/Debug/net9.0/ref/teknolojiodevi.dll

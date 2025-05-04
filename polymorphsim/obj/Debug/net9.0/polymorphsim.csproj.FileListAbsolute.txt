@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/bin/Debug/net9.0/polymorphsim
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/bin/Debug/net9.0/polymorphsim.deps.json
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/bin/Debug/net9.0/polymorphsim.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/bin/Debug/net9.0/polymorphsim.dll
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/bin/Debug/net9.0/polymorphsim.pdb
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/polymorphsim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/polymorphsim.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/polymorphsim.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/polymorphsim.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/polymorphsim.dll
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/refint/polymorphsim.dll
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/polymorphsim.pdb
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/polymorphsim.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/polymorphsim/obj/Debug/net9.0/ref/polymorphsim.dll

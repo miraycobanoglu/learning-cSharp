@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/interface/bin/Debug/net9.0/interface
+/Users/miraycobanoglu/Desktop/c#/interface/bin/Debug/net9.0/interface.deps.json
+/Users/miraycobanoglu/Desktop/c#/interface/bin/Debug/net9.0/interface.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/interface/bin/Debug/net9.0/interface.dll
+/Users/miraycobanoglu/Desktop/c#/interface/bin/Debug/net9.0/interface.pdb
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/interface.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/interface.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/interface.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/interface.dll
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/refint/interface.dll
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/interface.pdb
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/interface.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/interface/obj/Debug/net9.0/ref/interface.dll

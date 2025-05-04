@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/bin/Debug/net9.0/polimorfizmÖrnek
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/bin/Debug/net9.0/polimorfizmÖrnek.deps.json
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/bin/Debug/net9.0/polimorfizmÖrnek.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/bin/Debug/net9.0/polimorfizmÖrnek.dll
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/bin/Debug/net9.0/polimorfizmÖrnek.pdb
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/polimorfizmÖrnek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/polimorfizmÖrnek.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/polimorfizmÖrnek.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/polimorfizmÖrnek.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/polimorfizmÖrnek.dll
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/refint/polimorfizmÖrnek.dll
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/polimorfizmÖrnek.pdb
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/polimorfizmÖrnek.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/polimorfizmÖrnek/obj/Debug/net9.0/ref/polimorfizmÖrnek.dll

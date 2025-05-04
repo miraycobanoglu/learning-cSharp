@@ -1,0 +1,14 @@
+/Users/miraycobanoglu/Desktop/c#/uygulama1/bin/Debug/net9.0/uygulama1
+/Users/miraycobanoglu/Desktop/c#/uygulama1/bin/Debug/net9.0/uygulama1.deps.json
+/Users/miraycobanoglu/Desktop/c#/uygulama1/bin/Debug/net9.0/uygulama1.runtimeconfig.json
+/Users/miraycobanoglu/Desktop/c#/uygulama1/bin/Debug/net9.0/uygulama1.dll
+/Users/miraycobanoglu/Desktop/c#/uygulama1/bin/Debug/net9.0/uygulama1.pdb
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/uygulama1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/uygulama1.AssemblyInfoInputs.cache
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/uygulama1.AssemblyInfo.cs
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/uygulama1.csproj.CoreCompileInputs.cache
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/uygulama1.dll
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/refint/uygulama1.dll
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/uygulama1.pdb
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/uygulama1.genruntimeconfig.cache
+/Users/miraycobanoglu/Desktop/c#/uygulama1/obj/Debug/net9.0/ref/uygulama1.dll
